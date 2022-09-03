@@ -1,6 +1,6 @@
 import java.io.*;
   
-class basic_calculator {
+public class basic_calculator {
     public static void main(String[] args)
     {
         // initializing variables
